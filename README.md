@@ -19,5 +19,7 @@
 ## [農工大マイクラ部](https://tuatmc.github.io)
 
 <p align="left">
-  <img height="170" src="https://avatars.githubusercontent.com/u/110475723">
+  <a href="https://tuatmc.github.io">
+    <img height="170" src="https://avatars.githubusercontent.com/u/110475723">
+  </a>
 </p>
