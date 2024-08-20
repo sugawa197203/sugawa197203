@@ -11,7 +11,9 @@
 ## [農工大マイクロコンピュータークラブ(TUATMCC)](https://tuatmcc.com)
 
 <p align="left">
-  <img height="170" src="https://raw.githubusercontent.com/tuatmcc/icons/main/wordmark-logo%401960x1080.svg">
+  <a href="https://www.tuatmcc.com">
+    <img height="170" src="https://raw.githubusercontent.com/tuatmcc/icons/main/wordmark-logo%401960x1080.svg">
+  </a>
 </p>
 
 ## [農工大マイクラ部](https://tuatmc.github.io)
